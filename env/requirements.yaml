@@ -16,3 +16,6 @@ dependencies:
 - name: maybethenamewasbad
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: so-you-really-hate-underscore-jx
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
